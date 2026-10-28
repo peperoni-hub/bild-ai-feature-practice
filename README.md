@@ -16,6 +16,10 @@ invoicer is for freelancers and small business owners who need to bill clients w
 2. **Send it**: email the invoice to your client straight from invoicer.
 3. **Mark it as paid**: when the money arrives, mark the invoice as paid so you always know who still owes you.
 
+## Features
+
+invoicer saves your clients' details, so you only type them once and can pick them from a list next time. Every invoice gets its own number automatically, and you can download it as a PDF to print or attach. A simple overview shows which invoices are paid, which are waiting, and which are overdue. You can also add your own logo and colours so your invoices look like your business.
+
 ## Contact
 
 Made by Zehra Sinanovic. Questions, ideas or something not working? Write to [zehrasinanovic24@gmail.com](mailto:zehrasinanovic24@gmail.com).
